@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 19:44:32 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Name of the work 4</title>
+      <link>/blog/work4/</link>
+      <pubDate>Mon, 05 Nov 2018 19:44:32 +0530</pubDate>
+      
+      <guid>/blog/work4/</guid>
+      <description>&lt;p&gt;Is this out of a food mag or what? Seriously. Stock photo or something. What. It&amp;rsquo;s real? WOAH.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 3</title>
+      <link>/blog/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/blog/work3/</guid>
+      <description>&lt;p&gt;Damn what is this Bon Appetit?? Get out of here!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 2</title>
+      <link>/blog/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/blog/work2/</guid>
+      <description>&lt;p&gt;This is alright. I mean, that lettuce is a bit green. TOO GREEN.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 1</title>
+      <link>/blog/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/blog/work1/</guid>
+      <description>&lt;p&gt;Dang, that looks real fine. Such bread. Bacon. Dat egg.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
