@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/test/2018-01-05_A_turkey-meatloaf-with-surprise-egg.JPG"
+image = "img/test/2018-01-05_A_turkey-meatloaf-with-surprise-egg.JPG"
 date = "2016-11-05T18:25:22+05:30"
 title = "Name of the work 1"
 weight = 1
@@ -17,7 +17,8 @@ A small river named Duden flows by their place and supplies it with the necessar
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. S
+he packed her seven versalia, put her initial into the belt and made herself on the way.
 
 ## Header Level 2
 

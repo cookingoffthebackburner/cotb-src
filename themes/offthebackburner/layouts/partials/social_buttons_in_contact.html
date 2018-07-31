@@ -39,4 +39,12 @@
     <i class="fa fa-github"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.podcast }}
+  <a href="{{ . }}">
+    <i class="fa fa-microphone"></i>
+  </a>
+  {{end}}
 </p>
+
+
+<!-- TODO: update to font awesome 5 "fas fa-podcast" icon -->

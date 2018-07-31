@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/test/2018-03-26_A_black-garlic-ramen-scratch-broth-soy-sauce-eggs.JPG"
+image = "img/test/2018-03-26_A_black-garlic-ramen-scratch-broth-soy-sauce-eggs.JPG"
 showonlyimage = false
 date = "2018-11-05T19:44:32+05:30"
 title = "Name of the work 4"

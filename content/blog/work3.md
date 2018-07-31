@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/test/2018-05-16_A_vietnamese-caramelized-salmon-and-sautéed-greens-on-rice.jpg"
+image = "img/test/2018-05-16_A_vietnamese-caramelized-salmon-and-sautéed-greens-on-rice.jpg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Name of the work 3"

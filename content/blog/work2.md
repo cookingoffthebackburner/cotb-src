@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "img/portfolio/test/2018-05-14_R_ground-chicken-burger-with-tomato-aioli_2.jpg"
+image = "img/test/2018-05-14_R_ground-chicken-burger-with-tomato-aioli_2.jpg"
 showonlyimage = false
 weight = 1
 +++
