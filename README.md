@@ -1,6 +1,6 @@
-# Off The Backburner
+# Cooking Off The Backburner
 
-Website source code, with theme by Bootstrapious and Kishan B, slight modifications by Rob Amezquita, and content by Annie Nguyen and Rob Amezquita, et al.
+Website source code, with theme by Bootstrapious and Kishan B, (very) slight modifications by Rob Amezquita, and content by Annie Nguyen and Rob Amezquita, et al. 
 
 ## Source code layout
 
@@ -8,7 +8,7 @@ Source is organized as a default hugo themed website - [see the docs](https://go
 
 Briefly:
 
-* `content` - the _About_ and _Contact_ single pages, as well as the _Portfolio_ folder which contains all the blog posts. 
+* `content` - the _About_ and _Contact_ single pages, as well as the _Blog_ folder which contains all the blog posts. 
 * `static` - files that can be referenced by posts, such as images; for any image reference in a post, link it in the form `/img/[blog-date-and-title]/[image-name.[JPG|PNG]]`
 * `public` - do not touch this folder, as this is compiled every time via the hugo/blogdown engine, anything changed here will be overwritten; contains the website's current build
 * `themes` - this is where all the code for the website theme's structure lives in "offthebackburner"
@@ -43,7 +43,7 @@ setwd('/path/to/website')
 # get the path
 ```
 
-Once that is done, you can then run the following line to build/serve the website:
+Once that is all successfully installed and your current directory is set to the blog folder location, you can then run the following line to build/serve the website:
 
 ```{r}
 blogdown::serve_site() 
@@ -59,7 +59,7 @@ Alternatively, the website can be built using Hugo directly potentially but I ha
 
 ## Posts
 
-(New) Posts are placed into the `content/portfolio` folder. Each post is formatted as a markdown file. For a quick primer, visit [the markdown guide](https://www.markdownguide.org/cheat-sheet) or view the example posts within the folder. 
+(New) Posts are placed into the `content/blog` folder. Each post is formatted as a markdown file. For a quick primer, visit [the markdown guide](https://www.markdownguide.org/cheat-sheet) or view the example posts within the folder. 
 
 ### YAML Header
 
@@ -87,4 +87,6 @@ After the above line, any content will only appear upon following the link.
 A post can have text, pictures, links, etc. Simply follow the markdown guide, make sure image reference links are correct, and type away!
 
 
+## Pushing the website live
 
+To push the website live, the `/public` folder will need to be pushed to the repo `github.com/cookingoffthebackburner.github.io`. Simply change directories to `/public`, add changes within the folder, and then push. The `/public` directory will (should probably!) be left untracked by in the `cotb-src` repo to reduce redudundancy.
